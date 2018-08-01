@@ -6,11 +6,11 @@ Android Digit Recognition App
 
 
 <br>
-<p align="center">
-
 ## Some Demo Images
 
-  <img src="https://raw.githubusercontent.com/eddywm/DIGITREC-APP/master/pic1.png" width="350">
+<p align="center">
+  
+    <img src="https://raw.githubusercontent.com/eddywm/DIGITREC-APP/master/pic1.png" width="350">
 
    <img src="https://raw.githubusercontent.com/eddywm/DIGITREC-APP/master/pic2.png" width="350">
 
