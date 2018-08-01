@@ -10,9 +10,9 @@ Android Digit Recognition App
 
 <p align="center">
   
-    <img src="https://raw.githubusercontent.com/eddywm/DIGITREC-APP/master/pic1.png" width="350">
+  <img src="https://raw.githubusercontent.com/eddywm/DIGITREC-APP/master/pic1.png" width="350">
 
-   <img src="https://raw.githubusercontent.com/eddywm/DIGITREC-APP/master/pic2.png" width="350">
+  <img src="https://raw.githubusercontent.com/eddywm/DIGITREC-APP/master/pic2.png" width="350">
 
 
    </p>
