@@ -24,10 +24,6 @@ Android Digit Recognition App
 
 Eddy WM – [Twitter](https://twitter.com/eddy_wm) – eddywmdev@gmail.com
 
-Hi there my name is Eddy I am a software developer and an AI enthousiast, I like to build software to
-strenghten my understanding of complicated topics.
-
-I hope this project will help you getting started with Tensorflow using this real world application.
 <br>
 <br>
 
